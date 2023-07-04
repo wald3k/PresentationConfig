@@ -42,8 +42,7 @@ document.addEventListener("keydown", function(event) {
         });
 
     document.dispatchEvent(newEvent);
-  }
-});
+  },
 
 
 ...
