@@ -1,12 +1,12 @@
 # Norwii settings for Reveal.js
-This should enable navigation with left/right & top/down as well as spolight functionality.
+This should enable navigation with left/right & top/down as well as spolight functionality with Norwii controller.
 ## Markdown Spotlight plugin
 [Follow instructions for getting ](https://github.com/denniskniep/reveal.js-plugin-spotlight)
 
 ## Mapping keys for Norwii Presenter
 ```index.html
 
-...PUT THIS INTO index.html file inside <script> tag...
+... PUT THIS INTO index.html file inside <script> tag ...
 
 // Remap keys
 // https://stackoverflow.com/questions/19626684/how-can-i-make-reveal-js-work-with-a-presenter-remote
